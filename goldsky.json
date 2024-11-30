@@ -1,0 +1,19 @@
+{
+    "version": "1",
+    "name": "usde-transfers",
+    "abis": {
+      "usde": {
+        "path": "artifacts/USDeABI.json"
+      }
+    },
+    "chains": ["ethena-testnet"],
+    "instances": [
+      {
+        "abi": "usde",
+        "address": "0x15a5F0CC0eBbD6af48100885BB0c217457B01d14",
+        "chain": "ethena-testnet",
+        "startBlock": 1539807
+      }
+    ]
+  }
+  
