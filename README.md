@@ -60,7 +60,7 @@ Pulse addresses these problems with a secure, self-custodial, and high-yield ban
 
 ---
 
-## Sponsers Tech used:
+## Sponsers Tech Used
 
 ### Goldsky
 - [Subgraphs to fetch merchant specific data and build dashboards](https://github.com/yagnadeepxo/pulse/blob/main/client/src/app/analytics/page.tsx)
